@@ -1,0 +1,81 @@
+emperor			// The executive of a republic cannot do what a king or a emperor does.
+exact			// What is the exact amount left in you savings account.
+traditional		// Rosewood is a pure example of a traditional country house of this part of England.
+lack			// Martin can't afford the book due to lack of money.
+pardon
+regent			// George acted as a regent when the present king was a child.
+burgeon			// To serve the burgeoning tourist industry, an array of professionals has emerged.
+argue			// The study argues that the type of action needed against passive smoking should be similar to that being taken against AIDS.
+barely			// Rainfall barely penetrates the soil in this area.
+methane			//
+hierarchy		// It is likely that all uniforms make symbolic sense, namely, denoting a hierarchy.
+guidance		// We will solicit guidance and aid from legel experts.
+easy-going		// The interview don't tell you if applicants are easy-going or hate smoking or whatever.
+electrical		// The small battery-powered gadget can deliver subliminal electrical pulses to the skins.
+electronic		// Computers make up of the so-called electronic media.
+roll film		// At the end of 1889, Eastman launched a new roll film on a celluloid base.
+philosophy		// Try your best to succeed that's my philosophy.
+chronic			// Jim suffers from chronic back pain after the car-wreck.
+desirable		// Selecting the right person for the job involves more than identifying the essential or desirable range of skills.
+consortium 		// Consortium that won the contract for the island opted for an aggressive approach.
+buckle			// Buildings, pipes and roads tend to be buckle and crack because of the movement of the earth.
+curry			// Which kind of curry do you like, mild or peppery?
+subliminal		// How we look sends all sorts of subliminal message to other people.
+chamber			// In the brood chamber below, the bees will stash honey to eat later.
+frequent		// Frequent failures did not effect his morale.
+prosperous		// My grandfather once was a prosperous Britain businessman.
+purpose			// Bob was absent from school on purpose.
+variety			// The place we will visit offer a variety of shopping.
+immigration		// There will be stricter controls on immigration into the country.
+natural			// It's natual for an old man of his age to be so quiet.
+bet				// Anyway I bet there are some things you didn't know about bananas.
+consumer		// Many consumer feel that government and business have taken on the environmental agenda.
+physician		// The physician said that smoking was harmful to my health.
+equal			// These four firms had equal levels of productivity.
+resort			// The east coast resorts are only a short twenty-minute drive from here.
+leadership		// Last week wo talked about the most effective ways of leading mettings, and the advantages and disadvantages of different leadership styles.
+equity			// The equity of the committee's decision was accepted by everyone.
+excavate		// Some large species of dung beetles originating from France excavate tunnels to a depth of approximately 30cm below the dung pat.
+nuclear			// France derives three quarters of its electricity from nuclear power.
+mutual			// They soon discovered a mutual interest in music.
+hectare			// The farms there are quite large, typically around 800 hectares.
+density			// The house has some high-density insulation materials in the roof.
+massive			// In Tokyo builders are planning a massive underground city to be begun in the next decade
+congratulate	// I wanted to congratulate you all on having passed the exam.
+companion		// Tom was my only Chinese companion during my stay in Switzerland.
+rig				// The defeated candidate claimed that the election was rigged.
+input			// The intensity of farming in the rich world should decline, and the use of chemical inputs will diminish.
+merely			// You don't have to be present. Merely send a letter of explanation.
+impart			// He told me not to impart it to anyont without his own permission.
+forfeit			// he forfeited his driving licence because he drove after drinking.
+calorie			// THe energy content of food is measured in calories.
+van				// We hired a van to move the furniture to our new house.
+ventilation		// In the noisiest areas mechanical ventilation will have to be installed in the exterior walls.
+intermediate	// Student who have reached an intermediate level benifit from learning general English skills.
+eternal			// Muslims believes the soul of anyone who commits suicide will suffer eternal damnation.
+invasion		// The freedom from foreign invation enables a country to develop its natural resources steadily.
+nevertheless	// He was tired, nevertheless he kept on working.
+celebrate		// The architectural style celebrated scientific and engineering archievements by openly paradingthe sophisticated techniques used in construction.
+inspiring		// King was an inspiring tutor.
+attendance		// I do not think there is a need to make class attendance every day at universities.
+optional		// Is geography an optional course, or does everyone have to learn it?
+enable			// The bank service enables you to withdraw cash from your account at any time.
+departmental	// I saw a book in department library that would be helpful.
+heal			// The wound took months to heal.
+dismantle		// Most have been forced to dismantle their individualistic homes and return to more conventional lifestyles.
+wage			// In this company, wages are paid at the end of every month.
+landscape		// The landscap on the altiplano is the most beautiful I've ever seen.
+emotion			// Doing sport can be a good way to release suppressed emotion.
+commonwealth	// George was a scientist at the Commonwealth Scientific and Industial Research Organisation at that time
+newsletter		// There's David West who has volunteered to be the club secretary, and one of the many jobs he will have is to send out newsletters to you regulary.
+periodical		// The professor's paper has been issued in the latest periodical.
+receptionist	// The patient goes to a receptionist and ask her about his disease.
+security		// Such insurance plan can offer your families financial security in event of the loss of properties.
+clip			// It is said that US produces 300 million aluminium paper clips each day.
+apace			// The research went on apace.
+yield			// Higher yield have been achieved by increased irrigation and better crop breeding.
+fair			// This part of the island is warmer than the southern half,but it wouldn't be fair to say that the southern half is cold.
+
+Today is the first day of the rest of my life, I wake as a child to see the world begin.
+On monarch wings and birthday wonderings, want to put on faces, walk in the wet and cold.
+And look forward to my growing old, to grow is to change, to change is to be new, to be new is to be young again, I barely remember when.
