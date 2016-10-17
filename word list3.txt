@@ -1,0 +1,82 @@
+leak			// If there were a gas leak in this room, the average person would notice fairly quickly.
+leterature		// Jane tought English literature at my old high school.
+suffer			// Thye all suffer from chronic back pain.
+impede			// The lack of a common language can severely impede progress.
+spring			// He was born in the spring of 1985.
+biological		// Scientist are doing research to find the biological effects of radiation.
+deduce			// They cannot deduce very much from these simple figures.
+doctorate		// After getting his doctorate last year, he decided to continue that research.
+adsolute		// There is no absolute standard for beauty.
+theoretical		// In the first year students learn theoretical courses.
+internship		// During internship, John came into contact with society.
+slender			// Many families are still living on slender earnings.
+respondent		// Our respondents are both men and women, but the women were just slightly in the majority.
+surroundings	// Those who could afford to live in more pleasant surroundings moved out.
+couple			// There are a couple of books I'd like you to look at.
+voluntary		// I decided to join a voluntary organization and was sent to Ecuador to carry out land survays.
+submarine		// Residual heat in the submarine would disappear very quickly in these Arctic waters.
+commercial		// The research findings report commercial rather then political trends.
+notion			// The emergence of a new style of architecture reflects more idealistic notions for the future.
+lavatory		// Could you tell me the way to the lavatory, please?
+tablet			// Do not take Borodine tablets before consulting your doctor.
+actual			// Is this vase an actual antique or a copy.
+fold			// He decided to fold up Phoebe's massage table.
+instrument		// We use questoinnaires as our main resrearch instrument.
+simplify		// These self-help books are designed for people who want to simplify their lives.
+compulsory		// These counselling sessions are compulsory for all students.
+irritation		// Tom couldn't hide his irritation that he failed the exam.
+expense			// I am sure you are concerned about expenses such as books and uniforms when you child starts studying.
+muddle			// I'm in such a muddle that I completely forget to do my homework.
+originate		// According to my research, this type of banana actually originated in China.
+induce			// Nothing would induce me to change my idea.
+exhcange		// Are you one of the exchagne students.
+disharmony		// The disharmony of a person-environment mismatch is likely to result in low job satisfaction.
+cosset			// Tom is one who cossets his health.
+unique			// Biometric security systems operate by storing a digitised record of some unique human features.
+crossword		// They were good at crosswords and knew a lot of words.
+atomic			// Atomic energy powers the submarine.
+disagree		// They disagreed about love.
+check-up		// I go to my dentist for a check-up every two months.
+silt			// Volcanic ash silted up the Columbia River 35 miles away.
+inclusive		// The fully incluseve fee for the trip to the country will be higher in summer vacation.
+reservation		// I was advised to make a reservation in advance for the seats.
+transcript		// The professor was reading the transcript of the interview.
+include			// Sports administrators' duties include booking playing fields with local councils.
+reasonable		// I think you'll find the methods very reasonable.
+abode			// I do not dare to linger in that gloom-hidden abode.
+gadget			// We have tried out some of the latest gadgets on show.
+emergency		// If it's an emergency, you can phone at any time.
+legacy			// mary received this house as a legacy from her uncle.
+leisure			// Some people believe that children's leisure activities must be educational, otherwise they are a complete waste of time.
+overlap			// Our jobs overlap slightly, which causes difficulties.
+counterpart		// Researchers say that when women apply for positions they tend to be better qualified than their male counterparts.
+tune			// Engines of old cars were tuned to reduce the exhausts they emitted.
+strike			// A small stone struck me on the head.
+ambiguous		// Thinking in categories enables us to categorise phenomena that are essentially ambiguous.
+represent		// The discovery of the reaction principle represents one of the great milestones in the history of scientific thought.
+vanish			// Topsoil in India and China is vanishing faster and faster.
+mechanism		// Tom replaced the buttom mechanism in the machine.
+dispute			// When participants get into disputes with each other, it's time for the facilitator to take on the role of "friction manager".
+furniture		// office furniture
+standard		// Chains of KFC's and McDonald's are setting a new standard of customer service.
+typical			// The typical farm in the North is a small, family-run concern, producing mainly wool and timber for the markert.
+strengthen		// The conference will strengthen linkages between the two countries.
+workaholic		// Many people criticised this workaholic economy.
+unaware			// he was unaware of my entry into the room.
+erosion			// Often dams are built to protect the area from soil erosion and to serve as permanent sources of water.
+exclusively		// In open=-cut operations, the land is used exclusively for mining, but land rehabilitation measures generally progress with the mine's development.
+feather			// Feather fans and decorated hats went out of fashion.
+pronounceable	// We wonder if there is a way to generate random but pronounceable passwords.
+bare			// Certain plant can cause irritation if you touch them with bare skin.
+luggage			// The guys are here to take you and your luggage to the cabins.
+hose			// The water entered through a hose to the machine.
+bulb			// Light bulbs are made by a machine at the rate of 66,000 an hour.
+internal		// The theory lacks internal consistency.
+ion				// The ion propulsion system was first activated.
+cruize			// The famous Crocodile Cruise leaves at 11 a.m. each day.
+illusion		// He will be presenting his show of magic illusion and mystery at 9:30.
+shave			// How do you shave you beard so clean.
+
+Ordinary people merely think how they shall spend their time; a man of talent tries to use it.
+Ordinary people merely think how they shall spent their time; a man of talent tries to use it.
+ordenary people merely think how they shall spend their time; a man of talent tries to use it.
